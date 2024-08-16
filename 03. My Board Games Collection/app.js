@@ -1,4 +1,4 @@
-const baseUrl = `http://localhost:3030/jsonstore/games/`;
+const baseUrl = `http://localhost:3030/jsonstore/games`;
 
 // Get load button element
 const loadButton = document.getElementById('load-games');
